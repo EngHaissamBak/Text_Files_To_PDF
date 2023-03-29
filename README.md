@@ -1,3 +1,3 @@
-# Student Project sec25-26 (Reading text files to pdf)
+# Reading Text Files to PDF
 
 This reads 4 text files and produce them on a single pdf file.
